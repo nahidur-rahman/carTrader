@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "year": 2018,
+    "name": "Range Rover Sport",
+    "price": 84777,
+    "city": "Toronto",
+    "make": "Land Rover",
+    "url": "https://www.carhelpcanada.com/wp-content/uploads/2019/12/2020-Range-Rover-Evoque-2.jpg",
+    "seats": 5,
+    "miles": "14,666",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "The Range Rover Sport is the epitome of luxury and performance in the SUV world. Its dynamic design boasts sleek lines and a bold front grille, combining elegance with athleticism. With potent V6 and V8 engines, including hybrid options, this SUV delivers thrilling performance both on and off-road. Inside, the cabin is a showcase of opulence, featuring premium materials and cutting-edge technology. Multiple touchscreens control infotainment and connectivity, ensuring a seamless digital experience. Advanced safety features such as adaptive cruise control and lane-keeping assist contribute to its safety credentials. The Range Rover Sport accommodates up to five passengers comfortably, with an optional third-row for additional capacity. Its robust build and high-strength architecture enhance safety, while its towing capabilities add to its versatility. In essence, the Range Rover Sport redefines luxury SUVs by effortlessly blending style, performance, and sophistication into one exceptional package."
+  },
+  {
+    "id": 2,
+    "year": 2021,
+    "name": "Rolls Royce Ghost",
+    "price": 455000,
+    "url": "https://robbreport.com/wp-content/uploads/2021/03/1-5.jpg?w=1000",
+    "seats": 5,
+    "city": "Miami",
+    "make": "Rolls-Royce",
+    "miles": "53,666",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "The Rolls-Royce Ghost stands as the embodiment of exquisite luxury and refined craftsmanship, redefining opulence with its timeless design, including a graceful silhouette, prominent Pantheon grille, and Spirit of Ecstasy emblem, all powered by a seamless V12 engine and cocooning passengers in a serene environment of handcrafted leather, wood veneers, and metal accents, further enhanced by seamless integration of infotainment and numerous driver assistance features for a safe and comfortable journey, making it more than a car, but a statement of elegance and prestige tailored to the desires of discerning clientele, setting the benchmark for luxury sedans."
+  },
+  {
+    "id": 4,
+    "year": 2020,
+    "name": "Porsche Taycan",
+    "price": 180434,
+    "url": "https://www.topgear.com/sites/default/files/cars-car/carousel/2021/02/pcgb20_1441_fine.jpg",
+    "seats": 5,
+    "make": "Porsche",
+    "city": "Toronto",
+    "miles": "0",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "The Porsche Taycan signifies a revolutionary stride in the realm of electric vehicles, seamlessly blending thrilling performance and state-of-the-art technology. Its distinctive design is a testament to Porsche's iconic aesthetics, housing a sophisticated dual-motor configuration that not only ensures remarkable acceleration but also establishes a new standard for electric driving dynamics. Beyond its electrifying speed, the Taycan envelopes its passengers in opulent luxury, with a meticulously crafted interior adorned with premium materials and cutting-edge infotainment features. The vehicle's advanced suite of technologies, including adaptive cruise control, lane-keeping assist, and autonomous driving capabilities, amplifies its allure. As a pinnacle of innovation, the Taycan transcends the boundaries of traditional electric vehicles, embodying Porsche's legacy of performance while ushering in a new era of sustainable driving."
+  },
+  {
+    "id": 5,
+    "name": "Land Rover Luxury",
+    "price": 200434,
+    "url": "https://www.motortrend.com/uploads/2022/04/2022-Range-Rover-First-Edition-P530-SWB-on-road-1.jpg?fit=around%7C875:492",
+    "seats": 5,
+    "make": "Land Rover",
+    "city": "Toronto",
+    "miles": "0",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "Land Rover redefines luxury through its prestigious lineup of vehicles, seamlessly combining rugged capability with refined elegance. From the iconic Range Rover series to the versatile Land Rover Discovery, each model boasts meticulously crafted interiors adorned with premium materials, cutting-edge technology, and advanced comfort features, all while retaining their off-road prowess and distinctive design language. Land Rover's commitment to delivering opulence and performance culminates in a driving experience that harmonizes the thrill of adventure with the embrace of sophistication, setting a new benchmark for luxurious off-road exploration."
+  },
+  {
+    "id": 6,
+    "name": "Toyota Corolla",
+    "year": 2015,
+    "price": 23000,
+    "url": "https://crdms.images.consumerreports.org/c_lfill,w_470,q_auto,f_auto/prod/cars/chrome/white/2022TOC040001_1280_01",
+    "seats": 5,
+    "make": "Toyota",
+    "city": "Toronto",
+    "miles": "0",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+
+    "description": "The Toyota Corolla, an emblem of dependability and practicality, has left an indelible mark on the automotive landscape across generations. Its enduring popularity is owed to a harmonious blend of efficiency and adaptability. With its sleek design marked by clean lines and modern aesthetics, the Corolla boasts a reputation for reliability that has withstood the test of time. Diverse engine options provide a balance between performance and fuel efficiency, while the Corolla's inviting interior ensures passenger comfort, offering spaciousness and user-friendly technology. The inclusion of features such as touchscreen infotainment, advanced safety systems, and connectivity choices ensures a contemporary driving experience. Beyond its practicality, the Corolla maintains its allure on the road with responsive handling and a smooth ride, making it equally suitable for daily commutes and extended journeys. As one of the world's best-selling cars, the Toyota Corolla's enduring legacy speaks volumes about its unwavering appeal, making it an astute choice for those who prioritize reliable transportation without compromising comfort or style."
+  },
+  {
+    "id": 7,
+    "name": "Toyota Sienna",
+    "year": 2019,
+    "price": 34000,
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/2021_Toyota_Sienna_XLE_Hybrid%2C_front_12.21.21.jpg",
+    "seats": 5,
+    "make": "Toyota",
+    "city": "Toronto",
+    "miles": "0",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "The Toyota Sienna redefines family transportation with its blend of versatility, comfort, and advanced features. This minivan stands as a symbol of practicality, boasting a spacious interior that accommodates passengers with ease and offers customizable seating configurations. The Sienna's sleek exterior design belies its capacious interior, while under the hood, its efficient engine options deliver a balance of performance and fuel efficiency. Cutting-edge technology abounds, including a user-friendly infotainment system, modern safety features, and connectivity options that cater to the modern family's needs. The Sienna's emphasis on comfort extends to its smooth ride quality and ample cargo space, making it an ideal companion for road trips or daily routines. With its reputation for reliability and its commitment to enhancing family travel, the Toyota Sienna stands as a trusted and versatile choice in the minivan segment, embodying the brand's dedication to practicality and innovation."
+  },
+  {
+    "id": 8,
+    "name": "Porsche Targa",
+    "year": 2014,
+    "price": 250000,
+    "url": "https://hips.hearstapps.com/hmg-prod/images/2021-porsche-911-targa-4-4s-108-1597085217.jpg?crop=0.521xw:0.389xh;0.274xw,0.413xh&resize=1200:*",
+    "seats": 5,
+    "make": "Porsche",
+    "city": "Toronto",
+    "miles": "0",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+    "description": "The Porsche 911 Targa epitomizes the timeless elegance of the iconic 911 series while offering a unique open-top driving experience. Its distinctive design features a distinctive roll bar and a removable roof panel that combines the thrill of a convertible with the structural integrity of a coupe. Beneath its stunning exterior lies a range of powerful engine options, delivering exhilarating performance synonymous with the Porsche brand. The Targa's meticulously crafted interior showcases premium materials and cutting-edge technology, ensuring both driver and passenger comfort. With its exceptional handling and dynamic prowess, the 911 Targa offers a spirited yet refined driving experience. This model pays homage to Porsche's heritage while embracing modern innovation, making it a symbol of automotive artistry that seamlessly fuses classic aesthetics with contemporary performance."
+  },
+  {
+    "id": 9,
+    "name": "Kia Seltos",
+    "year": 2012,
+    "price": 39000,
+    "url": "https://i.gaw.to/content/photos/53/04/530444-kia-seltos-2024-une-bonne-mise-a-jour-s-en-vient.jpg?1024x640",
+    "seats": 5,
+    "make": "Kia",
+    "city": "Miami",
+    "miles": "0",
+    "features": ["No Accidents", "Low KM", "Vehicle Detailed", "Leather Interior"],
+
+    "description": "The Kia Seltos is a captivating compact SUV that seamlessly blends modern design with impressive versatility. Its striking exterior showcases bold lines, a prominent grille, and sleek LED lighting, while beneath the hood, a range of efficient engines deliver lively performance without compromising fuel economy. Inside, the Seltos boasts a thoughtfully designed interior featuring premium materials and user-friendly technology, including a touchscreen infotainment system and advanced safety features. The spacious cabin provides comfortable seating for passengers and adaptable cargo solutions. With the option of all-wheel drive and various drive modes, the Seltos is well-equipped to tackle diverse terrains and driving conditions. Its harmonious fusion of style, practicality, and connectivity positions the Kia Seltos as an enticing choice for those in search of a compact SUV that offers both modern features and an enjoyable driving experience."
+  }
+]
